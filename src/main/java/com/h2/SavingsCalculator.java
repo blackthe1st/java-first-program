@@ -14,6 +14,10 @@ public class SavingsCalculator {
 
     }
 
+    public static void main(String[] args) {
+
+    }
+
     private float sumOfCredits() {
 
         float sum = 0.0f;
