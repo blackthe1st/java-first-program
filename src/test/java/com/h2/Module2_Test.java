@@ -237,7 +237,7 @@ public class Module2_Test {
         assertEquals(2.67f, bestRate3Yr, "best rate for '3 year' must be '2.67f'");
 
         float bestRate100Yr = (float) method.invoke(null, 100);
-        assertEquals(0.0f, bestRate100Yr, "best rate for '100 year' must be '0.0ff'");
+        assertEquals(0.0f, bestRate100Yr, "best rate for '100 year' must be '0.0f'");
     }
 
     @Test
