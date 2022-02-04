@@ -42,4 +42,8 @@ public class SavingsCalculator {
         return -1;
     }
 
+    public float calculate() {
+        return 0.0f;
+    }
+
 }
