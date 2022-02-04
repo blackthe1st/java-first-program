@@ -38,7 +38,7 @@ public class SavingsCalculator {
 
     }
 
-    private int remainingDaysInMounth(LocalDate date) {
+    private int remainingDaysInMonth(LocalDate date) {
         return -1;
     }
 
